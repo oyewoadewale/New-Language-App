@@ -8,3 +8,6 @@ Components Used: Fragments, ViewPager, TabLayout, ListView, Custom ArrayAdapter,
 
 
 You can download the app here; https://drive.google.com/drive/u/0/folders/1yj0kxd2vJ_0pIXlAM4t5lZtdLOKKbFni
+
+
+This is a preview of how the app looks like; ![screenshot_2018-10-13-17-03-37](https://user-images.githubusercontent.com/38193029/46922879-56897e80-d007-11e8-9431-9b03c3fd92b0.png)
